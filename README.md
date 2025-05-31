@@ -17,8 +17,8 @@ This C program provides a **complete student management system** with attendance
 ## 🛠 Installation & Setup
 ### 1️⃣ Clone the Repository
 ```sh
-git clone <your-repo-url>
-cd <your-repo-name>
+git clone <https://github.com/Saurabh1456/Student-attendance-system>
+cd <Student-attendance-system>
 
 2️⃣ Compile the Program
 gcc student_management.c -o student_management
