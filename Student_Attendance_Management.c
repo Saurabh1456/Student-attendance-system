@@ -2,8 +2,6 @@
 #include <string.h>
 #include <time.h>
 
-char filename[20];
-
 struct Student{
 
     char name[100];
